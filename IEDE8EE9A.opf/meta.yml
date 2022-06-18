@@ -1,0 +1,38 @@
+id: IEDE8EE9A
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T00:08:58.038917'
+last_modified: '2022-06-19T00:08:58.038930'
+parser: null
+source_metadata:
+  title: Supplement to Jam mgon A mes zhabss (1597–1659) Record of Teachings Received
+    (part XII)
+  author: a myes zhabs ngag dbang kun dga bsod nams/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2015-07-06); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:Mathias Fermer (mf), bsam grub/ (Dharamsala) (sdr)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:bsam grub/
+  text_witnesses: https://sakyaresearch.org/sources/782
+  bases:
+    ea76:
+      title: Supplement to Jam mgon A mes zhabss (1597–1659) Record of Teachings Received
+        (part XII)
+      order: 1
+      base_file: ea76.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
